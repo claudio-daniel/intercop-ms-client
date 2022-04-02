@@ -1,2 +1,2 @@
-# intercop-ms-client
-Challenge Intercop
+# MS-CLIENTS
+Intercop Retail - Backend to manage clients
